@@ -1,0 +1,130 @@
+Epoch 1 completed in 107.23s
+  Generator G loss:      22.9150
+  Generator F loss:      21.3014
+  Discriminator Photo:   0.4722
+  Discriminator Monet:   0.4408
+  Cycle Consistency:     6.2939
+  Identity G/F:          1.4940 / 1.5166
+  Perceptual Loss G:     122.5133
+  Perceptual Loss F:     119.9672
+  Edge Loss G:           0.4810
+  Edge Loss F:           0.4255
+  Edge Pres Loss G:      0.0202
+  Edge Pres Loss F:      0.0136
+Epoch 2 completed in 88.88s
+  Generator G loss:      23.2433
+  Generator F loss:      21.3050
+  Discriminator Photo:   0.4709
+  Discriminator Monet:   0.4335
+  Cycle Consistency:     6.1454
+  Identity G/F:          1.4466 / 1.4646
+  Perceptual Loss G:     126.5892
+  Perceptual Loss F:     122.1409
+  Edge Loss G:           0.5012
+  Edge Loss F:           0.4334
+  Edge Pres Loss G:      0.0213
+  Edge Pres Loss F:      0.0142
+Epoch 3 completed in 88.75s
+  Generator G loss:      23.3292
+  Generator F loss:      21.2935
+  Discriminator Photo:   0.4712
+  Discriminator Monet:   0.4308
+  Cycle Consistency:     6.0217
+  Identity G/F:          1.4256 / 1.4275
+  Perceptual Loss G:     127.9137
+  Perceptual Loss F:     122.4997
+  Edge Loss G:           0.5142
+  Edge Loss F:           0.4330
+  Edge Pres Loss G:      0.0218
+  Edge Pres Loss F:      0.0152
+Epoch 4 completed in 88.76s
+  Generator G loss:      23.6315
+  Generator F loss:      21.6733
+  Discriminator Photo:   0.4672
+  Discriminator Monet:   0.4408
+  Cycle Consistency:     5.9744
+  Identity G/F:          1.3804 / 1.4484
+  Perceptual Loss G:     129.8785
+  Perceptual Loss F:     124.6887
+  Edge Loss G:           0.5278
+  Edge Loss F:           0.4513
+  Edge Pres Loss G:      0.0231
+  Edge Pres Loss F:      0.0165
+Epoch 5 completed in 89.76s
+  Generator G loss:      23.1981
+  Generator F loss:      21.1032
+  Discriminator Photo:   0.4578
+  Discriminator Monet:   0.4381
+  Cycle Consistency:     5.6153
+  Identity G/F:          1.3319 / 1.3438
+  Perceptual Loss G:     130.5803
+  Perceptual Loss F:     124.6956
+  Edge Loss G:           0.5295
+  Edge Loss F:           0.4542
+  Edge Pres Loss G:      0.0233
+  Edge Pres Loss F:      0.0150
+Epoch 6 completed in 87.62s
+  Generator G loss:      23.1779
+  Generator F loss:      20.5655
+  Discriminator Photo:   0.4676
+  Discriminator Monet:   0.4179
+  Cycle Consistency:     5.5152
+  Identity G/F:          1.2923 / 1.3359
+  Perceptual Loss G:     131.1704
+  Perceptual Loss F:     121.5735
+  Edge Loss G:           0.5311
+  Edge Loss F:           0.4375
+  Edge Pres Loss G:      0.0235
+  Edge Pres Loss F:      0.0139
+Epoch 7 completed in 87.66s
+  Generator G loss:      23.0835
+  Generator F loss:      20.6751
+  Discriminator Photo:   0.4595
+  Discriminator Monet:   0.4285
+  Cycle Consistency:     5.3235
+  Identity G/F:          1.2487 / 1.3004
+  Perceptual Loss G:     132.2738
+  Perceptual Loss F:     124.2974
+  Edge Loss G:           0.5388
+  Edge Loss F:           0.4449
+  Edge Pres Loss G:      0.0239
+  Edge Pres Loss F:      0.0156
+Epoch 8 completed in 89.53s
+  Generator G loss:      22.7313
+  Generator F loss:      20.1313
+  Discriminator Photo:   0.4701
+  Discriminator Monet:   0.4212
+  Cycle Consistency:     5.0412
+  Identity G/F:          1.2084 / 1.2626
+  Perceptual Loss G:     132.6345
+  Perceptual Loss F:     121.1393
+  Edge Loss G:           0.5357
+  Edge Loss F:           0.4414
+  Edge Pres Loss G:      0.0236
+  Edge Pres Loss F:      0.0149
+Epoch 9 completed in 87.52s
+  Generator G loss:      23.1007
+  Generator F loss:      20.6217
+  Discriminator Photo:   0.4519
+  Discriminator Monet:   0.4311
+  Cycle Consistency:     5.2384
+  Identity G/F:          1.2301 / 1.3187
+  Perceptual Loss G:     134.4381
+  Perceptual Loss F:     123.8905
+  Edge Loss G:           0.5382
+  Edge Loss F:           0.4531
+  Edge Pres Loss G:      0.0236
+  Edge Pres Loss F:      0.0147
+Epoch 10 completed in 87.29s
+  Generator G loss:      22.5432
+  Generator F loss:      20.5023
+  Discriminator Photo:   0.4652
+  Discriminator Monet:   0.4271
+  Cycle Consistency:     4.9074
+  Identity G/F:          1.1848 / 1.2571
+  Perceptual Loss G:     133.1332
+  Perceptual Loss F:     125.3033
+  Edge Loss G:           0.5358
+  Edge Loss F:           0.4629
+  Edge Pres Loss G:      0.0235
+  Edge Pres Loss F:      0.0154
