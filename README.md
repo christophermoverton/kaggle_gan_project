@@ -1,6 +1,6 @@
 
 
-```markdown
+
 #  Monet Style Transfer with CycleGAN | Kaggle GAN Project
 
 This project explores unpaired image-to-image translation using CycleGAN, with the goal of transforming real-world photographs into Monet-style paintings. It was developed as part of a deep learning coursework assignment and trained on data from Kaggle’s “I’m Something of a Painter Myself” competition.
